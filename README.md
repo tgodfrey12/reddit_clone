@@ -1,8 +1,9 @@
 # Project Name
 The Angular reddit clone(reddit_clone)
 
-This is a reddit clone created with Angular, knex, ui-router, exporess.  The user can
-create and edit posts and comments.
+1. This is a full stack MVC app in the angular style 
+2. It was created using Angular, knex, ui-router, exporess.  
+3. The user can create and edit posts and comments.
 
 
 # Getting started
