@@ -1,6 +1,5 @@
-# reddit_clone
 # Project Name
-The Angular reddit clone
+The Angular reddit clone(reddit_clone)
 
 This is a reddit clone created with Angular, knex, ui-router, exporess.  The user can
 create and edit posts and comments.
